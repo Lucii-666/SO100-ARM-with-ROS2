@@ -287,7 +287,8 @@ This project is licensed under the Apache License - see the LICENSE file for det
 
 ## Authors
 
-Bruk G.
+Original Author - Bruk G.
+Modified by - Ashutosh Kumar
 
 ## Acknowledgments
 
